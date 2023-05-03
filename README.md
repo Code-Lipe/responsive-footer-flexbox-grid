@@ -1,2 +1,1 @@
-# responsive-footer-flexbox-grid
- Footer responsivo 
+# Footer responsivo: HMTL/CSS - Flexbox/Grid
